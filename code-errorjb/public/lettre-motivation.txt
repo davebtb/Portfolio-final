@@ -1,0 +1,28 @@
+Madame, Monsieur,
+Actuellement étudiant en BTS SIO option SISR à l'IPSSI Paris, je suis activement à la recherche
+d'un stage conventionné de 6 semaines pour la période entre fin Avril et fin Juin 2025. Ayant suivi
+avec intérêt l'activité de Gridbees et étant particulièrement motivé par votre domaine
+d'expertise, je vous soumets ma candidature pour un stage en informatique.
+Mon cursus et mes expériences m'ont permis de développer un profil polyvalent avec des
+compétences solides dans les domaines suivants :
+• Administration Système et Réseau : Configuration et gestion d'Active Directory, DNS,
+SMB, Zabbix, serveurs FTP/FTPS et serveurs web, mise en place de réseaux, gestion de
+serveurs, sécurisation des systèmes.
+• Support Informatique : Gestion des systèmes d'exploitation, résolution de problèmes
+techniques, assistance aux utilisateurs.
+
+• Développement Web : Création d'interfaces utilisateur (UX/UI), développement back-
+end (Python, SQL, PHP), et gestion de bases de données.
+
+Plus précisément, mon expérience en tant que Technicien Système et Réseaux à l'IPSSI m'a
+permis de développer des compétences pratiques en création de domaine Active Directory,
+configuration de services DNS et SMB, installation de Zabbix, mise en place de réseaux NAT, et
+configuration de serveurs FTP/FTPS et web. De plus, mon activité en freelance m'a apporté une
+expérience significative en développement web et gestion de bases de données.
+Je suis une personne rigoureuse, disciplinée, avec un bon esprit d'équipe et une grande capacité
+d'adaptation. Je suis convaincu que ma polyvalence et ma motivation seraient un atout précieux
+pour votre entreprise.
+Je suis désireux de mettre mes compétences et mon enthousiasme à votre service et
+d'approfondir mes connaissances au sein de Gridbees. Je suis disponible pour un entretien afin
+de discuter plus en détail de mes qualifications et de ma motivation.
+Je vous remercie de votre temps et de votre considération.
